@@ -23,8 +23,8 @@ Este proyecto utiliza **Robocode**, un entorno de programación en Java para el 
 
 2. **Clonación del proyecto**:
    ```bash
-   git clone https://github.com/Markuus9/Robocode.git
-   cd Robocode
+   git clone https://github.com/Markuus9/Robocode-RealSteal.git
+   cd Robocode-RealSteal
 
 ## Uso
 1. Inicia Robocode y selecciona los robots que deseas probar.
